@@ -1,0 +1,8 @@
+*note.md
+*.pdf
+/.gradle
+app/src/main/jni/ncnn-20240410-android
+app/src/main/jni/opencv-mobile-3.4.16-android
+.idea/
+app/build/
+app/.cxx/
